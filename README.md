@@ -1,2 +1,2 @@
-# bioatlas-docker
-Dockerized system integration project for "BioAtlas Sweden" based on modules from Atlas of Living Australia with some adaptations to Swedish conditions
+# sbdi-bioatlas
+Repository for management of issues and development process of SBDI Bioatlas portal 
